@@ -2,9 +2,9 @@
 
 🎓 Computer Science Student at SRM Insitute Of Science and technologies <br>
 💻 Building scalable and efficient web & mobile applications. <br>
-🤖 Implementing machine learning models for insightful predictions in the Web Applications <br>
-🔐 Exploring security tools and participating in bug bounty programs. <br>
-📫 Connect with Me on [Linkedin] (https://www.linkedin.com/in/sanjeev-n-65330734b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br>
+🤖 Currently Working in Implementing machine learning models for insightful predictions in the Web Applications <br>
+🔐 Current;y Working in Exploring security tools and participating in bug bounty programs Simentaneously <br>
+📫 Connect with Me on [Linkedin] (https://www.linkedin.com/in/sanjeev-n-65330734b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [Gmail] (sanjeevnaveenk@gmail.com)<br>
 
 
 # 💻 Tech Stack:
